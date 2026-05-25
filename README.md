@@ -2,6 +2,9 @@
 
 Cloud Engineer based in India, focused on building reliable infrastructure and automating everything in between.
 
+ Welcome to my Github profile!. I am passionate cloud engineer ,I want to build and maintain cloud infrastructure as well as cloud autoamtion. 
+ I am always curios and eager to learn new concepts , build projects  that solves a real world problem and contribute to the communities.
+
 ---
 
 ### What I work with
