@@ -3,19 +3,19 @@
 Cloud Engineer based in India, focused on building reliable infrastructure and automating everything in between.
 
  Welcome to my Github profile!. I am passionate cloud engineer ,I want to build and maintain cloud infrastructure as well as cloud autoamtion. 
- I am always curios and eager to learn new concepts , build projects  that solves a real world problem and contribute to the communities.
+ I am always eeager to learn new concepts , build projects  that solves a real world problem and contribute to the communities.
 
 ---
 
 ### What I work with
 
-**Cloud** — AWS · Azure · GCP  
-**Containers** — Kubernetes · Docker · Helm  
-**IaC** — Terraform · Ansible · Pulumi  
-**CI/CD** — GitHub Actions · GitLab CI · ArgoCD · Jenkins  
-**Observability** — Prometheus · Grafana · Datadog  
-**Security** — HashiCorp Vault · Cloudflare · Linux  
-**Languages** — Python · Bash · Go · YAML  
+**Cloud** — AWS , Azure , GCP  
+**Containers** — Kubernetes , Docker   
+**IaC** — Terraform , Ansible , Cloud Formation  
+**CI/CD** — GitHub Actions ,  Jenkins  
+**Observability** — Prometheus , Grafana   
+**Security** — HashiCorp Vault , Cloudflare ,Linux  
+**Languages** — Python , Bash ,Go , YAML , JSON  
 
 ---
 
@@ -38,4 +38,4 @@ Things built from actual problems — not tutorials.
 
 ### Let's talk
 
-📩 your@email.com
+
